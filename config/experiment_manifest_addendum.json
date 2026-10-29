@@ -1,0 +1,161 @@
+{
+  "schema_version": "addendum-1",
+  "created_at_wib": "2026-10-24T14:39:55.425854+07:00",
+  "run_mode": "verify_frozen",
+  "trained_in_this_run": false,
+  "frozen_manifest_sha256": "0f8660d1094540bbd598938292897a1ed5db50f7864733c4116348a37b9056ab",
+  "trusted_model_sha256": "3ec22197cb5248be993782d490cc080efb9f2d0f341ba7884f1b7d99ff31e0df",
+  "weight_filename": "model.safetensors",
+  "bundle_sha256": "6c64fc81db396f4019645e43998796ff08c11bc9dfa1490729dbd22475cb3911",
+  "core_sha256": "e07ad4c7524b1ed3e30fa0fa5a91a9163c40ab4a0547663afc15ef7f861a91b6",
+  "core_version": "1.0.0",
+  "policy_version": "tier-4-softmax-0.50-0.75-0.90/v1",
+  "preprocessing_parity_hash": "0ebe0f02665f2f7b49c5965ceb4ce35f17ba932da93ff528b4e691d6cc5152f8",
+  "provenance_check_message": "Checksum bobot & konfigurasi cocok; internal test cocok (40,934 teks dan label identik; urutan baris diabaikan.); external cocok (1,995 teks dan label identik; urutan baris diabaikan.). PERINGATAN: manifest lama tidak memiliki training_config terpisah; kunci training dicocokkan lewat config.json; fingerprint berbeda untuk corpus_sha256, train_split_sha256, val_split_sha256, test_split_sha256; keanggotaan train/val lama tidak dapat dibuktikan independen.",
+  "training_config_documented": {
+    "model_checkpoint": "indolem/indobertweet-base-uncased",
+    "max_length": 128,
+    "padding_strategy": "max_length",
+    "seed": 42,
+    "num_epochs": 2,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01
+  },
+  "training_config_note": "Manifest beku tidak memuat training_config; nilai ini dicocokkan dengan config.json artefak beku (verifikasi di Sel 4) dan BELUM dibuktikan dengan log training mentah.",
+  "eval_config": {
+    "n_bootstrap": 1000,
+    "n_bootstrap_auc": 500,
+    "bootstrap_seed": 42,
+    "ci_level": 0.95,
+    "paired_primary_n": 400,
+    "llm_calib_n": 200,
+    "near_dup_cosine": 0.8,
+    "tfidf_C_grid": [
+      0.5,
+      2.0,
+      8.0
+    ],
+    "prevalence_grid": [
+      0.01,
+      0.05,
+      0.1
+    ],
+    "qualitative_per_cell": 3
+  },
+  "environment": {
+    "python": "3.13.16",
+    "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+    "torch": "2.11.0+cu130",
+    "transformers": "5.20.2",
+    "datasets": "4.8.5",
+    "scikit_learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3",
+    "cuda_available": true,
+    "cuda_version": "13.0",
+    "gpu": "Tesla T4"
+  },
+  "provenance_meta": {
+    "dataset_codemixed": {
+      "id": "aiatums/codemixed-id-hate-speech",
+      "commit_sha": "19a03eba294171be64a5fcb5dcf7f36b6e86d72f",
+      "license": "cc-by-4.0",
+      "last_modified": "2026-05-16 21:39:18+00:00"
+    },
+    "model_indobertweet": {
+      "id": "indolem/indobertweet-base-uncased",
+      "commit_sha": "32e28c05b47e33b6675d2670a1745c50a65e987a",
+      "license": "apache-2.0",
+      "last_modified": "2021-09-18 01:24:17+00:00"
+    },
+    "model_qwen": {
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "commit_sha": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+      "license": "apache-2.0",
+      "last_modified": "2024-09-25 12:32:50+00:00"
+    },
+    "raw_file_sha256": {
+      "re_dataset.csv": "44c04e31ad4b7ee4a95f1884e7af4da2c44b69762143eb2de0ede7f90502735e",
+      "new_kamusalay.csv": "fe00f0c728ee8ecc40dca3c3001ff2701dba7d4417a4178fe5b5745243564f9d"
+    },
+    "ibrohim_budi_2019_source": "https://raw.githubusercontent.com/okkyibrohim/id-multi-label-hate-speech-and-abusive-language-detection/master/re_dataset.csv"
+  },
+  "split_fingerprints": {
+    "fingerprint_schema": "text_clean|HS|group_id|source_domain|variant_type",
+    "corpus_total_rows": 199360,
+    "train_rows": 142647,
+    "val_rows": 15779,
+    "test_rows": 40934,
+    "corpus_sha256": "c084b0f51e993f62ce67edca95a8a8e45fa72a1d44520113020df37f79657203",
+    "train_split_sha256": "226bdb2c5754a822130a79fc9bd5ad24f4ae42bec5fe37b742145efad6e3af51",
+    "val_split_sha256": "818f37f496ff1be75d03df72bc275022838ca23f3ded733bc3d1362d4703e948",
+    "test_split_sha256": "471b8f4158f078318e381a3c7cd5cbca0998d17cf9223718ff99e0854b5c4c8e",
+    "external_test_rows": 1995,
+    "external_test_split_sha256": "2d5eefe32ec6b635602e470b9f4a43511314ad853b9569d2aaa8255cd6a8a72a"
+  },
+  "numerical_parity_vs_legacy_trainer": {
+    "available": true,
+    "n_compared": 40934,
+    "max_abs_diff": 1.1102230246251565e-16,
+    "mean_abs_diff": 4.914627343308171e-17,
+    "p99_abs_diff": 1.1102230246251565e-16,
+    "label_flips": 0,
+    "tier_flips": 0
+  },
+  "temperature_T_validation_fit": 2.8090810017124284,
+  "output_files_sha256": {
+    "RESULTS_SINGLE_SOURCE.json": "6b8984fe100f2c3917418a4b7a1e8080a4c01d6564b3f222357dc345bc7c5ffd",
+    "config.json": "8e6dd8f3c8a5dd3dc7fb3f4ce5cab75db53a82d65277b9fb1eb2a3ccc9202481",
+    "experiment_manifest.json": "0f8660d1094540bbd598938292897a1ed5db50f7864733c4116348a37b9056ab",
+    "external_test_predictions.csv": "490580baaf2c88d3ccbfd7274c16b90a05fcaeff3dc45a7eb4dc5e0b63b5613c",
+    "external_test_predictions_legacy_trainer.csv": "490580baaf2c88d3ccbfd7274c16b90a05fcaeff3dc45a7eb4dc5e0b63b5613c",
+    "hateguard_core.py": "e07ad4c7524b1ed3e30fa0fa5a91a9163c40ab4a0547663afc15ef7f861a91b6",
+    "inference_parity_reference.csv": "b914ca85f61ec2a63419aaa276b381933b39bb02297a97c9f4512b222ada5560",
+    "lexicon_bias_analysis.csv": "1e5c8287ab11a48334f4cf65a3de7a45b0b8db38ce58d085ecac8760234b3fd0",
+    "paired_evaluation_primary_samples.csv": "9ccbd919db353ae2be927c2d4429c0ffdc08f632cf3b628f8db4942323b8bc44",
+    "paired_evaluation_primary_summary.json": "5446771c938694a80395a63346643e20f89c5454adf88c6e7627fd6232725377",
+    "paired_evaluation_samples.csv": "4c09bf4a356bed7ad90911acdbaee12b2034bdfb4a7e7a23f554dd09b1397a54",
+    "paired_evaluation_summary.json": "e42008842348c4db2f466cbb8d4b715ea533496498ebd2260986868834394c49",
+    "preprocessing_bundle.joblib": "6c64fc81db396f4019645e43998796ff08c11bc9dfa1490729dbd22475cb3911",
+    "requirements_frozen.txt": "1d1211780d3f6fd02855e270a12ca9d78e65f80521ccb370d352d3794989e4e7",
+    "smoke_test_standalone.py": "c7402518276795e30f5adee78a28752401290da9fa346a75a847855d8d69ef1f",
+    "source_domain_evaluation.csv": "0dffe314c53c02815b0e50f3ffe2ccb674dc07d3eb07717ff0f40a5ffa6f394b",
+    "test_metrics_summary.json": "a4ddfd639a6c33e97c96e36bb0eea4cd2f65716c17140f0fc3d2a3b069e61636",
+    "test_predictions.csv": "8a03693b4aea6226d42def4f2418b344cded8cfcefa08fd3b8bf94342b0891c2",
+    "test_predictions_legacy_trainer.csv": "8a03693b4aea6226d42def4f2418b344cded8cfcefa08fd3b8bf94342b0891c2",
+    "threshold_analysis_results.csv": "e1858f1cff1c8ff75ba12334bd2fcfda929d8239a9d864fe838971c311b5a2f2",
+    "training_history.json": "e992a6ed85d8ca845d3e2bb31561238ab6f439f1597a0be8f69e2e5dce778b54",
+    "val_predictions.csv": "899ebdb49c905b591d668bdfa229212086e5179fee0fd4e9c7d93dde1e2b0d19",
+    "results/ablation_inference_normalization.csv": "11c6c8bba6c6dafc39c3aeee5e6f24970ecf4c2845a9aea1ab660cb7fa962138",
+    "results/baseline_tfidf_lr_results.csv": "7140b4b9ee5ed8c3a6ac614c16b1b90bad7821df76694323e65e2df5e3905f46",
+    "results/block_threshold_sweep.csv": "bedf5e62ef331b2744109a92fae63112d1347ee5fa66bbc745fdf77fe8b8556e",
+    "results/error_by_length.csv": "f93350ad8fbd7dc3be11881b3dacef07f51d778ad9dfcee0e458cdd35b18ec28",
+    "results/error_rates_by_domain.csv": "9639659d9c39fccbd588e792300cf1cd14b23a0bc513b93364e43401931dade5",
+    "results/hitl_demo_examples.json": "71f795bc522a6a8c1b0bb92fc6f46d5b3cf587ffca3d562e705772cc4d738b09",
+    "results/main_results_table.csv": "3134fe9083ee7990a402f0243da54707fb60dcbbaffede18fc4fcf8c9d1a9f48",
+    "results/near_duplicate_audit_external_original.csv": "095a498252d9af3defede28b1a06e574fa247bc0780c7a47417cd25d9d24f195",
+    "results/near_duplicate_audit_test_original.csv": "c8c2ac93449300163158775b945e1e0efc0da6a2378874ae5df21581472b8b90",
+    "results/paired_delta_indobertweet_minus_tfidf.csv": "beae29b3ca9cdd676844be89053eb5ec945b7a5d1b4c57a552a59fa3b4803d83",
+    "results/policy_ablation.csv": "e12a8486804a069f73401b94525701b5383b83e6bfd92a711d571c01fb04d1ed",
+    "results/prevalence_projection.csv": "5b026fb4751e48158708ead8324419c0d88100faa5705defa1cdc50b5589229c",
+    "results/qualitative_error_samples.csv": "5b98328d57437b956434c6bb7589c6bd42c0cc8b621a785cc7200ae2b1e944d5",
+    "results/tier_composition.csv": "08173d00567f2d2e2dd2af742bd0dcc2a7bec567f18cd681ca309bfd9f0c81db",
+    "figures/fig1_class_distribution_and_effective_n.png": "3c4492c12faffa58654c36d9326d3fdd0da6aeffab789190dbe85178245ee247",
+    "figures/fig2_training_validation_trends.png": "bd86a80b60975f9c302148fee3b3754319676f435053bd16a6f07bdea45da450",
+    "figures/fig3_confusion_matrices.png": "020f471900432b49f946e91e05cc22105748dd670a2321e456651b266c4634ac",
+    "figures/fig4_guardrail_tiers_and_llm_comparison.png": "b07c61f001d5fcc27ff8819b8d8aea175e2e4809fcb81e61889ec1bb232d75a0",
+    "figures/fig5_calibration_and_score_distribution.png": "0438db37d260b1e875a8ec0b6abf9975c221a5ffa247746e4cc35b0ec6e35fee",
+    "figures/fig6_f1_by_subset_vs_baseline.png": "08767685788a6b8ed19b6cbc4d8c87c8cefec5722b8d0375e859b46b78ac7256",
+    "figures/fig7_block_threshold_tradeoff.png": "23bbbd0b063fc24e952652013dcb4b75c68ec8033dda277f356aec63dc305cd7"
+  },
+  "smoke_test": {
+    "status": "PASS",
+    "device": "cpu",
+    "n": 200,
+    "max_abs_diff": 1.55204751085547e-05,
+    "mean_abs_diff": 1.0998039144585206e-06,
+    "tier_flips_within_tolerance_zone": 0,
+    "tolerance": 0.001
+  }
+}

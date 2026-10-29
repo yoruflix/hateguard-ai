@@ -1,0 +1,1 @@
+{"status": "PASS", "device": "cpu", "n": 200, "max_abs_diff": 1.55204751085547e-05, "mean_abs_diff": 1.0998039144585206e-06, "tier_flips_within_tolerance_zone": 0, "tolerance": 0.001}

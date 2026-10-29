@@ -1,0 +1,68 @@
+{
+  "timestamp_wib": "2026-10-21T17:13:50.328223+07:00",
+  "trained_in_this_run": true,
+  "model_checkpoint_base": "indolem/indobertweet-base-uncased",
+  "weight_filename": "model.safetensors",
+  "trusted_model_sha256": "3ec22197cb5248be993782d490cc080efb9f2d0f341ba7884f1b7d99ff31e0df",
+  "preprocessing_parity_hash": "0ebe0f02665f2f7b49c5965ceb4ce35f17ba932da93ff528b4e691d6cc5152f8",
+  "split_fingerprints": {
+    "corpus_total_rows": 199360,
+    "train_rows": 142647,
+    "val_rows": 15779,
+    "test_rows": 40934,
+    "corpus_sha256": "4883164615a8b500b8381f448d50eb974d3b1908828b482e51fa9b297e9cedec",
+    "train_split_sha256": "85466ef41c9b35b5d136580d853cdd9212097a89379d3714e4ef3f5ba322718d",
+    "val_split_sha256": "581162f186aa477c8bf5a5c99b4545669fceb5352f58d90e0de2e1216c440967",
+    "test_split_sha256": "64f624373de479f692163e587523b2ffe8d4b960510cec43d8d706e7fbcf6797"
+  },
+  "calibration_metrics_test": {
+    "brier_test": 0.102213,
+    "ece_test_10_bins": 0.0964
+  },
+  "library_versions": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.20.1",
+    "datasets": "4.8.5",
+    "scikit_learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.1.3"
+  },
+  "test_metrics_summary": {
+    "accuracy": {
+      "point_estimate": 0.8887,
+      "bootstrap_mean": 0.889,
+      "bootstrap_std": 0.0044,
+      "ci95": [
+        0.8799,
+        0.8976
+      ]
+    },
+    "precision": {
+      "point_estimate": 0.8785,
+      "bootstrap_mean": 0.8787,
+      "bootstrap_std": 0.0079,
+      "ci95": [
+        0.8639,
+        0.894
+      ]
+    },
+    "recall": {
+      "point_estimate": 0.876,
+      "bootstrap_mean": 0.876,
+      "bootstrap_std": 0.0074,
+      "ci95": [
+        0.8612,
+        0.8894
+      ]
+    },
+    "f1": {
+      "point_estimate": 0.8772,
+      "bootstrap_mean": 0.8773,
+      "bootstrap_std": 0.0055,
+      "ci95": [
+        0.8668,
+        0.8879
+      ]
+    }
+  }
+}

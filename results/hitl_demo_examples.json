@@ -1,0 +1,35 @@
+[
+  {
+    "input_masked": "s*a teh b*****g, b****g s*a teh",
+    "text_clean": "kamu teh belegug, babi kamu teh",
+    "p_hate_speech": 0.9989658192643449,
+    "level": "strong",
+    "llm_draft": {
+      "reasoning": "Komentar menggunakan kata-kata negatif seperti 'teh belegug', menyinggung identitas etnis atau ras, serta menuduh orang lain sebagai 'babi'. Ini merupakan tanda ujaran kebencian.",
+      "rewritten_polite": "Maaf, saya tidak bisa membahas topik tersebut.",
+      "is_fallback": false
+    }
+  },
+  {
+    "input_masked": "Woy omonganmu metu konteks terus wae, dasar p***k!",
+    "text_clean": "oi omonganmu keluar konteks terus saja, dasar bodoh!",
+    "p_hate_speech": 0.9989798202129498,
+    "level": "strong",
+    "llm_draft": {
+      "reasoning": "Komentar menggunakan kata-kata negatif seperti 'woy', 'metu', dan 'dasar', serta menyinggung aspek sosial seperti 'pekok' dan 'bodoh'. Ini menunjukkan adanya perasaan tidak hormat atau serangan.",
+      "rewritten_polite": "Maaf jika ada kesalahan, kami harap Anda merasa nyaman dalam diskusi ini.",
+      "is_fallback": false
+    }
+  },
+  {
+    "input_masked": "s**u lu beneran toxic banget jadi orang, dasar i***t!",
+    "text_clean": "shut the fuck up kamu benaran beracun banget jadi orang, dasar bodoh!",
+    "p_hate_speech": 0.9986703535896093,
+    "level": "strong",
+    "llm_draft": {
+      "reasoning": "Komentar menggunakan kata-kata seperti 'fuck', 'toxic', dan 'idiot', serta menuduh seseorang sebagai 'beracun' dan 'bodoh', semua ini merupakan tanda kuat bahwa komentar tersebut dianggap sebagai ujaran kebencian.",
+      "rewritten_polite": "Maaf jika ada kesalahan atau perbedaan pendapat sebelumnya, kami harap Anda dapat memberi saya kesempatan untuk memperbaiki diri.",
+      "is_fallback": false
+    }
+  }
+]

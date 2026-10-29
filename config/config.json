@@ -1,0 +1,30 @@
+{
+  "seed": 42,
+  "model_checkpoint": "indolem/indobertweet-base-uncased",
+  "llm_checkpoint": "Qwen/Qwen2.5-1.5B-Instruct",
+  "max_length": 128,
+  "padding_strategy": "max_length",
+  "test_size": 0.2,
+  "val_size_from_train": 0.1,
+  "num_epochs": 2,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "weight_decay": 0.01,
+  "paired_eval_sample_size": 50,
+  "guardrail_thresholds": {
+    "safe_max": 0.5,
+    "weak_max": 0.75,
+    "moderate_max": 0.9
+  },
+  "artifact_dir": "./hateguard_artifacts",
+  "drive_artifact_dir": "/content/drive/MyDrive/HateGuard/hateguard_artifacts",
+  "legacy_drive_model_dir": "/content/drive/MyDrive/HateGuard/model_hate_speech_final",
+  "trusted_model_sha256": "3ec22197cb5248be993782d490cc080efb9f2d0f341ba7884f1b7d99ff31e0df",
+  "preprocessing_parity_hash": "0ebe0f02665f2f7b49c5965ceb4ce35f17ba932da93ff528b4e691d6cc5152f8",
+  "preprocessing_parity_samples": [
+    "RT USER: sia teh balegug pisan, dasar pekok! stfu https://t.co/xyz",
+    "Woy omonganmu metu konteks terus wae, dasar pekok! @user123",
+    "You look like you're under a lot of stress wearing trousers",
+    "anjay keren pisan euy filmnya, ga ada obat!"
+  ]
+}

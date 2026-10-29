@@ -1,0 +1,262 @@
+{
+  "tag": "legacy_n50",
+  "n": 50,
+  "n_unique_groups": 50,
+  "n_original_texts": 50,
+  "domain_composition": {
+    "indonesian_twitter": 37,
+    "codemixed_sundanese_orig": 7,
+    "codemixed_javanese_orig": 6
+  },
+  "n_parse_failed_generative": 0,
+  "llm_model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+  "llm_threshold_calibrated": 3.8984375,
+  "systems": {
+    "IndoBERTweet (fine-tuned)": {
+      "accuracy": {
+        "point": 0.92,
+        "lo": 0.84,
+        "hi": 0.98,
+        "se": 0.037584166879152704
+      },
+      "precision": {
+        "point": 0.92,
+        "lo": 0.809478021978022,
+        "hi": 1.0,
+        "se": 0.054317471135135645
+      },
+      "recall": {
+        "point": 0.92,
+        "lo": 0.8076923076923077,
+        "hi": 1.0,
+        "se": 0.0531680061602937
+      },
+      "f1": {
+        "point": 0.92,
+        "lo": 0.8292682926829269,
+        "hi": 0.9811492281303602,
+        "se": 0.039962486617461886
+      },
+      "balanced_accuracy": {
+        "point": 0.92,
+        "lo": 0.8376623376623377,
+        "hi": 0.9814980158730158,
+        "se": 0.03792420435322605
+      },
+      "confusion_matrix": [
+        [
+          23,
+          2
+        ],
+        [
+          2,
+          23
+        ]
+      ],
+      "frac_pred_hs": 0.5,
+      "auroc": {
+        "point": 0.9424,
+        "lo": 0.8613023349436393,
+        "hi": 0.9967902093397745,
+        "se": 0.03485600871295417
+      }
+    },
+    "Qwen zero-shot (generatif, penalized)": {
+      "accuracy": {
+        "point": 0.5,
+        "lo": 0.36,
+        "hi": 0.64,
+        "se": 0.07096926376960663
+      },
+      "precision": {
+        "point": 0.5,
+        "lo": 0.34210526315789475,
+        "hi": 0.6590909090909091,
+        "se": 0.07755868181317103
+      },
+      "recall": {
+        "point": 0.84,
+        "lo": 0.6782738095238098,
+        "hi": 0.9629629629629629,
+        "se": 0.07536418686509043
+      },
+      "f1": {
+        "point": 0.6268656716417911,
+        "lo": 0.4745762711864407,
+        "hi": 0.75,
+        "se": 0.07052964367397803
+      },
+      "balanced_accuracy": {
+        "point": 0.5,
+        "lo": 0.39766734372712637,
+        "hi": 0.6016209893048128,
+        "se": 0.053030296864680006
+      },
+      "confusion_matrix": [
+        [
+          4,
+          21
+        ],
+        [
+          4,
+          21
+        ]
+      ],
+      "frac_pred_hs": 0.84
+    },
+    "Qwen zero-shot (logit, ambang 0)": {
+      "accuracy": {
+        "point": 0.5,
+        "lo": 0.36,
+        "hi": 0.64,
+        "se": 0.07096926376960663
+      },
+      "precision": {
+        "point": 0.5,
+        "lo": 0.34210526315789475,
+        "hi": 0.6590909090909091,
+        "se": 0.07755868181317103
+      },
+      "recall": {
+        "point": 0.84,
+        "lo": 0.6782738095238098,
+        "hi": 0.9629629629629629,
+        "se": 0.07536418686509043
+      },
+      "f1": {
+        "point": 0.6268656716417911,
+        "lo": 0.4745762711864407,
+        "hi": 0.75,
+        "se": 0.07052964367397803
+      },
+      "balanced_accuracy": {
+        "point": 0.5,
+        "lo": 0.39766734372712637,
+        "hi": 0.6016209893048128,
+        "se": 0.053030296864680006
+      },
+      "confusion_matrix": [
+        [
+          4,
+          21
+        ],
+        [
+          4,
+          21
+        ]
+      ],
+      "frac_pred_hs": 0.84,
+      "auroc": {
+        "point": 0.6512,
+        "lo": 0.49492475984230117,
+        "hi": 0.7981920129870129,
+        "se": 0.07728892509595223
+      }
+    },
+    "Qwen zero-shot (logit, ambang kalibrasi val)": {
+      "accuracy": {
+        "point": 0.6,
+        "lo": 0.46,
+        "hi": 0.7204999999999995,
+        "se": 0.06872681863726851
+      },
+      "precision": {
+        "point": 0.6,
+        "lo": 0.4,
+        "hi": 0.7916666666666666,
+        "se": 0.09865891766163701
+      },
+      "recall": {
+        "point": 0.6,
+        "lo": 0.4,
+        "hi": 0.7727272727272727,
+        "se": 0.097258496370453
+      },
+      "f1": {
+        "point": 0.6,
+        "lo": 0.425531914893617,
+        "hi": 0.7451146560319044,
+        "se": 0.08114235603396842
+      },
+      "balanced_accuracy": {
+        "point": 0.6,
+        "lo": 0.46,
+        "hi": 0.7386688442394964,
+        "se": 0.06972128939903921
+      },
+      "confusion_matrix": [
+        [
+          15,
+          10
+        ],
+        [
+          10,
+          15
+        ]
+      ],
+      "frac_pred_hs": 0.5,
+      "auroc": {
+        "point": 0.6512,
+        "lo": 0.49492475984230117,
+        "hi": 0.7981920129870129,
+        "se": 0.07728892509595223
+      }
+    }
+  },
+  "vs_indobertweet": {
+    "Qwen zero-shot (generatif, penalized)": {
+      "mcnemar_exact": {
+        "b_A_only_correct": 23,
+        "c_B_only_correct": 2,
+        "p_value": 1.9431114196777344e-05
+      },
+      "p_value_formatted": "<0.001",
+      "delta_accuracy": {
+        "delta_point": 0.42000000000000004,
+        "lo": 0.26,
+        "hi": 0.58
+      },
+      "delta_f1": {
+        "delta_point": 0.29313432835820896,
+        "lo": 0.1544362934362936,
+        "hi": 0.4518571428571429
+      }
+    },
+    "Qwen zero-shot (logit, ambang 0)": {
+      "mcnemar_exact": {
+        "b_A_only_correct": 23,
+        "c_B_only_correct": 2,
+        "p_value": 1.9431114196777344e-05
+      },
+      "p_value_formatted": "<0.001",
+      "delta_accuracy": {
+        "delta_point": 0.42000000000000004,
+        "lo": 0.26,
+        "hi": 0.58
+      },
+      "delta_f1": {
+        "delta_point": 0.29313432835820896,
+        "lo": 0.1544362934362936,
+        "hi": 0.4518571428571429
+      }
+    },
+    "Qwen zero-shot (logit, ambang kalibrasi val)": {
+      "mcnemar_exact": {
+        "b_A_only_correct": 18,
+        "c_B_only_correct": 2,
+        "p_value": 0.0004024505615234375
+      },
+      "p_value_formatted": "<0.001",
+      "delta_accuracy": {
+        "delta_point": 0.32000000000000006,
+        "lo": 0.17999999999999994,
+        "hi": 0.48
+      },
+      "delta_f1": {
+        "delta_point": 0.32000000000000006,
+        "lo": 0.1575261306448083,
+        "hi": 0.4936860160345358
+      }
+    }
+  }
+}

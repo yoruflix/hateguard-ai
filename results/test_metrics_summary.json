@@ -1,0 +1,38 @@
+{
+  "method": "grouped_bootstrap_by_group_id",
+  "trained_in_this_run": false,
+  "n_samples": 40934,
+  "n_unique_groups": 4100,
+  "n_bootstraps": 1000,
+  "precision_mode": "fp32_core_logits",
+  "metrics": {
+    "accuracy": {
+      "point_estimate": 0.8888,
+      "ci95": [
+        0.8793,
+        0.8968
+      ]
+    },
+    "precision": {
+      "point_estimate": 0.8785,
+      "ci95": [
+        0.8615,
+        0.8929
+      ]
+    },
+    "recall": {
+      "point_estimate": 0.876,
+      "ci95": [
+        0.8632,
+        0.8891
+      ]
+    },
+    "f1": {
+      "point_estimate": 0.8773,
+      "ci95": [
+        0.8655,
+        0.8876
+      ]
+    }
+  }
+}

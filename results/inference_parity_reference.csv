@@ -1,0 +1,201 @@
+Tweet,source_domain,y_true,p_hate_speech,guardrail_level,reference_device,reference_torch
+"USER enteng banget sih, sayang tim bola w ga bisa menang juga",codemixed_javanese,0,0.0010677611590534507,safe,cuda,2.11.0+cu130
+"Nanya dong, lamun cuaca di Bandung keur hujan, mending berangkat jam sabaraha ya, dulur-dulur?",codemixed_sundanese,0,0.0002959134519832742,safe,cuda,2.11.0+cu130
+"Koplak atuh, di mimpi gue ngirim foto, kuduna mah mau gue fw ka CHANNEL GUEEEE eh nyasar ka BRYANNNNN; trus Bryan ngebales kek lu teh sengaja bla2, gw: 😭😭😭 KENAPA MIMPINYA GITU ATUH 😭😭",codemixed_sundanese,0,0.001767888377263468,safe,cuda,2.11.0+cu130
+"USER Nyantai banget ya, kerjaan udh kelar anj! Lu kira w robot asu",codemixed_javanese_orig,1,0.001813491998572317,safe,cuda,2.11.0+cu130
+"USER USER USER Bapak saya mah nyebut kanjut teh sanes kangge manusia, tapi kanggo binatang.",codemixed_sundanese,0,0.0010289521987271466,safe,cuda,2.11.0+cu130
+Seo anu asli na gelejotan hayang ngedusel pas gimyong kaluar ti penjara wkwkwk bayangin ieu budak jurig gigit pulpen nungguan hari H nya 🥺😊💕,codemixed_sundanese,0,0.005126461787339764,safe,cuda,2.11.0+cu130
+"Awalna pengen pisan kisah aing populer di komunitas. Ayeuna nempo nu ngepost, waswas nasibna sarua jeung nu eta 🥺🥺",codemixed_sundanese,0,0.000710768566972024,safe,cuda,2.11.0+cu130
+"USER konsér K-Pop nu di Jakarta kamari, ajg! Aing asa kaduhung teu datang, hayang pisan ngerasain suasana na 😭",codemixed_sundanese,0,0.0004507117525477754,safe,cuda,2.11.0+cu130
+ADUH GUSTI! 'Satu-satunya tempatku adalah di sampingmu'. Manis banget sumpah! Bikin ati kemlecer.,codemixed_javanese,0,0.0006943147318597195,safe,cuda,2.11.0+cu130
+"Sumedang mulu, balik ka Sumedang deui bae, eneg aing anjir 😭",codemixed_sundanese,0,0.0047936085939842155,safe,cuda,2.11.0+cu130
+MENURUTKU mending kabeh turtleneck Yonghee nang lemari kuwi buang wae buang wae!!! BUANG!!!! MAAKKKK tulung anakmu gendeng lanangan😭😭😭😭😭,codemixed_javanese,0,0.01562302193546142,safe,cuda,2.11.0+cu130
+"Ih maneh teh kunaon sih, kan geus jelas kitu settingan game-na. lain diotak-atik wae, ntar teh malah nge-bug geuningan. aduh kesel siah bololok!",codemixed_sundanese,0,0.014154988527719178,safe,cuda,2.11.0+cu130
+ANYINGGG AING BAFETRTTRRR FAK KATA GUE TEH https://t.co/jlnGIoz4kj,codemixed_sundanese_orig,0,0.0274198879273417,safe,cuda,2.11.0+cu130
+USER GW SEBEL ABANG 🙂🙂 MANTAN GW MALAH NANGGEPIN PULA 🙂🙂🙂 BENERAN TAEK (please jangan dikasih dare),codemixed_javanese_orig,0,0.009344084366319777,safe,cuda,2.11.0+cu130
+"USER Punten, ceunah mah lu apal IG gue?",codemixed_sundanese,0,0.00043549976627266863,safe,cuda,2.11.0+cu130
+Woy TAT dlu mlh ada hantu nempatin boneka skzoo ampe di-ruqyah teh TAT,codemixed_sundanese,0,0.0014649635419802308,safe,cuda,2.11.0+cu130
+"USER iya ayeuna mah aing keur coba lari subuh, kemaren-kemaren mah teu kuat, ayeuna nyoba 3K heula atuh 🏃",codemixed_sundanese,0,0.0006647296358992615,safe,cuda,2.11.0+cu130
+USER Pdhl hirup tnp jurig teh moal berwarna 🤣,codemixed_sundanese,0,0.0016450743192602535,safe,cuda,2.11.0+cu130
+"USER Ki, aku kerep weruh asu njilati telek. Nggarakno iling kowe ki.....sebeneré ora tega aku ki.",codemixed_javanese,0,0.00044973956350032724,safe,cuda,2.11.0+cu130
+"USER live streaming atuh, siaran langsung tunnel tour kitu ulah dipotong2 siga kitu... tapi moal wani lah jigana, engke kanyahon deui tukang waduk heuuuhh beungeut sia goreng ✨🌝",codemixed_sundanese,1,0.0012910689331149495,safe,cuda,2.11.0+cu130
+"Yoon sieun ka Jeonghan🤣 gue paham knp dia pgn nulis ngarana make English ver, lain make bhs Kor mah, sieun diculik ku jurig meureun? wkwkw becanda😭🙏",codemixed_sundanese,0,0.002247276193872967,safe,cuda,2.11.0+cu130
+Mau mandi aing malah nempel yang kaya gini😩 COBA TEBAK NAMANYA!!! KALO GA TAU NAMANYA BERARTI FAKE FRIEND!!!!!!!!,codemixed_sundanese,0,0.01705608817383331,safe,cuda,2.11.0+cu130
+"Jancok, laprak gue ra ketemu blas, asu nyebelin pol.",codemixed_javanese,0,0.0006678606820177173,safe,cuda,2.11.0+cu130
+"Aduh, aing mah emang teu boga pendirian. Geus niat moal makan manis, eh liwat tukang martabak langsung khilaf. Koplok pisan!",codemixed_sundanese,0,0.0013073219653808186,safe,cuda,2.11.0+cu130
+"Pas udah di-add ke grup WA kelas, malah bestie aing teu diundang😭😭😭",codemixed_sundanese,0,0.0012917604997858176,safe,cuda,2.11.0+cu130
+"Mau nonton film zombie ah, udah lama ga ngrasain yang thriller begitu teh",codemixed_sundanese,0,0.00037401225130629577,safe,cuda,2.11.0+cu130
+USER kira-kira bakal aya huru-hara naon deui akhir taun ieu atawa awal taun hareup ti maranehna; aing siap we (siap gila),codemixed_sundanese,0,0.00034664193373296813,safe,cuda,2.11.0+cu130
+"pas 'coffee lounge' mlebu top songs-mu, tandha nek 24/7 kowe ngadhep laptop terus 😭🤏 jancok kok iso-iso top songsku 'coffee lounge' suuu~",codemixed_javanese,0,0.00045902885151666056,safe,cuda,2.11.0+cu130
+"Serius deh teh, ieu guru ngerti gak sih yang dari kemarin mahasiswa pada demo? Para cewek dikataiin ""lebay"" dalam konteks negatif tapi diem aja, yang ada si Maya stress. Maya gak pengen konflik udah cabut dari organisasi, lah sama ketua ini malah di-posting terus dibahas lagi.",codemixed_sundanese,0,0.0008495547983966497,safe,cuda,2.11.0+cu130
+kok jalma-jalma bisa meunang naon anu dipikahoyong ya kok abdi henteu,codemixed_sundanese,0,0.0014723195433147434,safe,cuda,2.11.0+cu130
+"Pernah nggak sih tiba-tiba leungeun, suku, atawa awak kalian babak belur biru atawa hideung siga dipukuli padahal euweuh nanaon? Ini teh kunaon atuh? Punten ya, ini mah lain urusan setan atawa jurig.",codemixed_sundanese,0,0.0008029089262907208,safe,cuda,2.11.0+cu130
+"Kunaon sih maraneh siga nu teu malire aing keur gering kieu, atuh tanyakeun naha geringna, bere weh ubarna. Enya aing ge ngarti maksud kalian kitu teh, sangkan gua bisa mandiri jeung kuat mun teu aya sasaha deui tanpa gumantung ka batur, aing paham eta pisan, tapi aing ge hayang sakali-kali diurus kitu, jiga nu lain.",codemixed_sundanese,0,0.003215909524649784,safe,cuda,2.11.0+cu130
+"Seumuran jiga aing. Beda na mah manehna sakola ari aing putus skolah pas smk. Tapi alhamdullilah ge sanajan ge putus skola, teu belegug jiga mnh si.",codemixed_sundanese,0,0.005938122857230387,safe,cuda,2.11.0+cu130
+"Apaan sih kanjut, mending gua pacarin lu semua drpd gua jomblo nyorangan lonely",codemixed_sundanese,0,0.4312693528299148,safe,cuda,2.11.0+cu130
+Ya ampun anjing kenapa aya kanjut segala sih 😑 males banget dah,codemixed_sundanese,0,0.0021045898431563664,safe,cuda,2.11.0+cu130
+klo ni gw udh gw baledog k mukanya.,codemixed_sundanese,0,0.08426477923567617,safe,cuda,2.11.0+cu130
+USER Typo gembel wkwk',indonesian_twitter,0,0.00210142818278204,safe,cuda,2.11.0+cu130
+USER Jurig oge nami sanes tina setan sbnrnya 😭😭,codemixed_sundanese,0,0.0023496052654392247,safe,cuda,2.11.0+cu130
+Loe kira yang kemarin pada nonton tour SKZ di SEA sampe sold out itu jurig apa gimana?,codemixed_sundanese,0,0.002095993570283541,safe,cuda,2.11.0+cu130
+"USER baru nonton DRAKOR teh, ceritana jiga seru banget dah",codemixed_sundanese,0,0.0005281686739464355,safe,cuda,2.11.0+cu130
+"Isukan sigana ak bakal loba kadenge teriakan si ayang nu barengan jeung jurig eta, gpp, ak suka kamu ngagorowok sanajan gara2 jurig nu padahal ketukan Asahi 😭 t.co/BS5hiouods",codemixed_sundanese,0,0.00588242781029651,safe,cuda,2.11.0+cu130
+Jarene cukuran nang kono (kata kapstene) sing tak jaluk dudu sing ngene iki anjir 😮‍💨 model e mbulet karo ra rapi cok bedane mung keri dikit tok 😔😔😔😔 bayare larang pisan fak.,codemixed_javanese,0,0.0009250322741319384,safe,cuda,2.11.0+cu130
+"Lucu ta kalo zzm melu betel mung gawe rame, ngapain si? Ini penilaian debut lo, tambah lucu maneh kalo dia melu sampe debut, gue yang inter fensi cuma nyengir terus ngomong jancok jancok",codemixed_javanese,1,0.004297671567945731,safe,cuda,2.11.0+cu130
+"USER naha nya, ceuk beja nu apal mah jurig teh persis pisan jeung manusa, bisa tiris, kahujanan, kepanasan. Terus, pas hujan, maranehna teh sok milarian tempat ngiuhan di luhur eternit, pakarangan, pokokna mah nu penting aya tempat nyalindung.",codemixed_sundanese,0,0.0009485673059085997,safe,cuda,2.11.0+cu130
+"Begadang terus mah teu hade atuh. Mending tidur ya, kasian kan kalo malem-malem pikiran suka kalut sendiri. Daripada nanti malah kepikiran buat cari perhatian yang enggak-enggak, mending istirahat yang cukup.",codemixed_sundanese,0,0.0004653026549186113,safe,cuda,2.11.0+cu130
+"Taek, udah turu nyenyak kok yo dibangunin mergo alasan ra penting blas, babi lah.",codemixed_javanese,0,0.0007803440753507621,safe,cuda,2.11.0+cu130
+"USER USER USER USER USER USER USER bjir menyebalkan bgt, Jadi keinget pengalamanku di brand yg pemiliknya cewek juga (dia lagi hamil waktu itu) aku pernah udah haid hari pertama beneran lg bocor banget izin buat ganti pakaian aja gak boleh gblk dah jelas di celanaku tembus kathah pol gila tenan sing nduwe☺️",codemixed_javanese,1,0.0005954611139710955,safe,cuda,2.11.0+cu130
+"Jancok, es krim rasa klepon iki lucu pol, topping-e imut2 sampe aku gemes bgt rek.",codemixed_javanese,0,0.00023343668745349276,safe,cuda,2.11.0+cu130
+Kita bisa bodo aman dan bilang jancok ke mereka,codemixed_javanese_orig,0,0.0032681265127117187,safe,cuda,2.11.0+cu130
+"Bakat ku perlu banget sih, beneran kesel, gue kalau bisa nangis juga udah nangis kaya si akang",codemixed_sundanese,0,0.0005364972546836525,safe,cuda,2.11.0+cu130
+gw ga mau buka twitter... kontennya jjk terus anjir gue ga kuat help gege maneh bajigur bodo amat kehed,codemixed_sundanese,1,0.5356294763710292,weak,cuda,2.11.0+cu130
+"si bangsat ini buang-buang duit wae, dichat jam pira balesnya jam pira 👎🏽",codemixed_javanese,1,0.7098661237778051,weak,cuda,2.11.0+cu130
+"USER Gue, korban tipuan si Singgih. Nyaiba pisan gara-gara manéhna nyaritakeun budak jeung indungna. Koplok téh si Singgih!",codemixed_sundanese,0,0.5649065509608553,weak,cuda,2.11.0+cu130
+"USER heeh emang eta jalma teh rese pisan, obsessed bikin orang gak nyaman.",codemixed_sundanese,0,0.5483522275224089,weak,cuda,2.11.0+cu130
+"Anjr, sia nanaon kehed teh? Gue gituin da, aslina.",codemixed_sundanese,1,0.5450207743807739,weak,cuda,2.11.0+cu130
+"USER Iyaaaa.. soale nek tuku iki, aku entek duite mung nggo nutup CANGKEMMU sing raono enteke!",codemixed_javanese,1,0.7097736710534652,weak,cuda,2.11.0+cu130
+"Pas awal musim, kita jeblok gara-gara pertahanan sering mlempem. Sekarang pertahanan udah ciamik, tapi lini serangannya ampas asu asu wkwk.",codemixed_javanese,1,0.5177260748848326,weak,cuda,2.11.0+cu130
+jancok ni apa yg dliat klo gn?,codemixed_javanese,0,0.528306343637065,weak,cuda,2.11.0+cu130
+gila sabarnya mba ini😤 gue mah udah kesel banget pasti ngomong naon atuh sia teh bodoh pisan kunaon😤,codemixed_sundanese,1,0.5891111791240706,weak,cuda,2.11.0+cu130
+"Ora kok adik rakyat. Adik rakyat ki biasane yo ora *gila*, mung kebetulan lagi *typhus*.",codemixed_javanese,0,0.5706042386071323,weak,cuda,2.11.0+cu130
+"Yah lu mah ga akan pernah ngerasain gimana susahnya kerja sambil kuliah teh, sok atuh diem we kamu mah, kehed kata gua teh asa capek ningali na ribut pisan eta ocehan.",codemixed_sundanese,0,0.6631421884045573,weak,cuda,2.11.0+cu130
+USER Waini kurang minum kopi luwak biar gak deg2an alias kocak si pak bolotnya pas depan congor \xf0\x9f\x98\xb9\xf0\x9f\x98\x82',indonesian_twitter,0,0.7362333566656086,weak,cuda,2.11.0+cu130
+"USER sok-sokan mau goyahkan keyakinan umat Islam nih. Wong gila kok dipercaya. Mbah itu bukan Muslim lho. Kalau dia Muslim, pasti nggak bakal ngomong kayak gitu. Dalam ajaran Islam kan ada 2 macam dalil, yaitu dalil aqli sama dalil naqli. Dalil Aqli itu menggunakan akal sehat dan logika. Dalil Naqli itu dalil yang melampaui logika, yang butuh keimanan buat memahaminya.",codemixed_javanese,0,0.7117080296020399,weak,cuda,2.11.0+cu130
+"Heh sia, maaf doang mah gampang euy, setan; bayar we utang biar aing teu keneh diteror.",codemixed_sundanese,1,0.5283448860038584,weak,cuda,2.11.0+cu130
+"Serius pisan bela junjungan, kaya dpt kursi jabatan. Aku mah golput we, ngan rada kesel ningali pendukung 1 teh pda heboh, pendukung 3 mah santuy ge. Kamu pengikut nenek Tarwiyah kali, makanya loyal pisan, hehe",codemixed_sundanese,0,0.5514143061264372,weak,cuda,2.11.0+cu130
+"Temen gua ini tipe orang males gegeran; dia didiemin, dipendem dhewe. Kalo gua sih minimal gue katain jancok di dpn mukanya. Bayangno aja lg hamil muda, LDR sm suami, punya temen kantor kyk setan, ora stres piye?",codemixed_javanese,0,0.5447622458023211,weak,cuda,2.11.0+cu130
+"Kalo gua jadi kapten squad, langsung gua all-chat: ""najis gua main bareng lu deui, kehed, ngaganggu wae!""",codemixed_sundanese,1,0.6090197131104951,weak,cuda,2.11.0+cu130
+Serasa ingin mencintai tetapi takut untuk mencintai ehak eek',indonesian_twitter,0,0.7446823098133221,weak,cuda,2.11.0+cu130
+"asu tenan kok bilang kerja online gampang, padahal kuota abis terus sinyal lemot",codemixed_javanese,0,0.6204005317604724,weak,cuda,2.11.0+cu130
+"Ah USER sok ngaku sepuh ajg, aing mah ti tadi hayang ngerasain first ride motor anyar heula 😭",codemixed_sundanese,0,0.5609558227291341,weak,cuda,2.11.0+cu130
+padahal tu cowok awalnya gemes anjrit lah emang cwok kanada kanjut 😭,codemixed_sundanese_orig,0,0.7314636046515585,weak,cuda,2.11.0+cu130
+"USER, kenapa sih ga mikir? Kan baju sorangan ge di jemuran. Dasar kehed!",codemixed_sundanese,1,0.7356469042441328,weak,cuda,2.11.0+cu130
+tau dah anjing kurang asupan protein kah dari bossnya,codemixed_javanese,0,0.554672934529804,weak,cuda,2.11.0+cu130
+USER emg intinya temen-temennya trainee bantuin ngejagain anak trainee dr fans edan,codemixed_javanese,0,0.7040436186981571,weak,cuda,2.11.0+cu130
+gabisa mandi sih sampe pagi ksl jablay',indonesian_twitter,0,0.6965771358825879,weak,cuda,2.11.0+cu130
+"USER betul2 ngapain di-private, kaya telek",codemixed_javanese,0,0.6971035323299968,weak,cuda,2.11.0+cu130
+"Bunuh aing lamun bisa, ulah ukur cangcaya wae",codemixed_sundanese,1,0.567766498014749,weak,cuda,2.11.0+cu130
+"Lah jstru idola anjeun dapet privilej dr idola gw, kehed!",codemixed_sundanese,0,0.5782559389582091,weak,cuda,2.11.0+cu130
+"Kehed, geus heula we ah ereun. Duitna seep kabeh, sieun jankenpon moal aya kamajuan.",codemixed_sundanese,0,0.6657663817132408,weak,cuda,2.11.0+cu130
+SEMUA GARA² GUE NGATAIN YUQI NELA JANCOK,codemixed_javanese_orig,0,0.6916300490703798,weak,cuda,2.11.0+cu130
+"USER USER Siapa yang lebih jagoan coba? Ngomong glory hunter padahal baru kemaren sore nonton bola, dasar cungkring!",codemixed_javanese,1,0.6584724803390064,weak,cuda,2.11.0+cu130
+"Kowe tbtb muncul pas livestream wis rampung, langsung sok paling ngerti, TAEK",codemixed_javanese,1,0.725328983806559,weak,cuda,2.11.0+cu130
+"Ohh ini yaa partai medsos itu teh, aing ngakakk bgt baca alesanna",codemixed_sundanese,0,0.5801305910922356,weak,cuda,2.11.0+cu130
+USER USER USER USER USER USER Utang meroket \nRupiah anjlok\nEkonomi nyungsep\nInfrstruktur Ambruk\nBBM naik\nDaya beli turun\nDiserbu Import ratusan ton narkoba \nDiserbu TKA\nDuit 35 trilyun digondol taipan\n.,indonesian_twitter,1,0.5297230742676662,weak,cuda,2.11.0+cu130
+"Anjirrr, si eta mah kalahka ngaruksak wae game gua! Teu ngeunah yeuh maen jeung sia, rek dijebloskeun siah kana liang buaya, ambyar sia!",codemixed_sundanese,0,0.7443123433439125,weak,cuda,2.11.0+cu130
+"Lahaulaaaa selisih finis ke-2 tipis banget sama yang pertama. Kalo jarak sampai ke-3 apalagi ke-4 segini jauh bro malah yang nomer 2 gak menang. matane wuto kabeh apa piye?? *ditunggu klarifikasi dari juri renang Porkab sleman, kepo mau pake alesan kayak gimana.",codemixed_javanese,1,0.6946004705784641,weak,cuda,2.11.0+cu130
+"Udah males banget mau masak malah liat acara sampah kayak sinetron itu, bikin mual setengah mati cok",codemixed_javanese,1,0.7133773813979258,weak,cuda,2.11.0+cu130
+USER Pdhl di paranje eta aya pakean mnih jg. Mikiran atuhh siah kehed!,codemixed_sundanese,0,0.5172572218636179,weak,cuda,2.11.0+cu130
+"USER Iye, dari dulu gw berharap ahok di penjara,; Tapi bukan dalam perkara almaidah, sih.",indonesian_twitter,1,0.5356093534826668,weak,cuda,2.11.0+cu130
+"Mbok ya zzm ojo ikutan betel tok, percuma wae! Iki debut lo, kok malah main-main ae. Gue sing dukung soko awal jadi males banget, jancuuuk!",codemixed_javanese,1,0.6746596584981116,weak,cuda,2.11.0+cu130
+USER Gendeng km iku. Aku sudah baca semua bukan kah kejadian ini sudah ada dalam rencana tuhan. Dunia ini panggung sandiwara #semuthitammajujalan,codemixed_javanese_orig,0,0.6995910399944507,weak,cuda,2.11.0+cu130
+"Barusan mabar, si ngentot di tim aing malah AFK jeung feed, jurig naon eta, rank rontok we gara-gara maneh.",codemixed_sundanese,1,0.7427608987444316,weak,cuda,2.11.0+cu130
+"Dasar USER, pameunteu di balihona gé meni pikanyerieun mata anying.",codemixed_sundanese,1,0.693478111368308,weak,cuda,2.11.0+cu130
+"Asu tenan kowe FAK JIHOON, males banget dah tingkahmu sing ora karuan",codemixed_javanese,1,0.6348293824304303,weak,cuda,2.11.0+cu130
+"cok, emg dibilang sembuh itu gampang? sopo sing mw lara sih, tiap hari kudu minum obat trs.",codemixed_javanese,0,0.6663818268886741,weak,cuda,2.11.0+cu130
+"Eh, yang ngubah-ubah dalil mah elu, yang nyebar hoaks oge elu, tapi kok aing nu kudu protés?",codemixed_sundanese,0,0.56003510734522,weak,cuda,2.11.0+cu130
+"Pantesan Milan dadi ngono, bapake wae edan, si El ki brutal pol, koe yo ketularan. Woh pancen ora adoh saka wité. Sing kemarin kuwi ora brutal? Cuma wis mode bapak-bapak. #tellonym",codemixed_javanese,1,0.5822635008226728,weak,cuda,2.11.0+cu130
+Apapun yg terjadi perlawanan pasti menang... Jadi Jancok Turok bsok bakal ancur... Kemenangan iku kepastian sing wes di ramalke... Cuma anak² setan tok sing mbantah.,codemixed_javanese,1,0.735148169569023,weak,cuda,2.11.0+cu130
+"udh anjing ckup ga usah nyuruh aku nyari doi lg, udh muak cinta cintaan, INI LG ADEK AKU KUMAHA BARU SMP TAH UDH PACAR PACARAN, KEHED JD AKU YG KENA",codemixed_sundanese,0,0.7356042226964123,weak,cuda,2.11.0+cu130
+"Di warung kopi, mbak-mbak nanya ke teko listrik: ""teko, cara bikin latte sing enak piye?""; Teko: ""ra paham""; Mbak: ""kowe teko pekok, plonga-plongo wae""; Teko: ""wis lungo kono, goblok.""",codemixed_javanese,1,0.7014826830899453,weak,cuda,2.11.0+cu130
+"Dasar koplok banget, udah tahu akun tinggal 1 lagi malah top up pack receh. Gara-gara gak ngeh kuota pack!",codemixed_sundanese,0,0.8986598504437325,moderate,cuda,2.11.0+cu130
+"Mbanking kok error maneh pas jatuh tempo, aku ra iso bayar tagihan, piye to, “smart fitur” ndasmu, kesel pol cok.",codemixed_javanese,0,0.8478425799239372,moderate,cuda,2.11.0+cu130
+MENURUTKU LEBIH BAIK SEMUA POSTER SEVENTEEN SING NEMPEL DI TEMBOK TUH COPOT AJA COPOT AJA!!! COPOT!!!! MAMAAAA ANAKMU STRESS CARAT😭😭😭😭😭,codemixed_javanese,0,0.8051843629117875,moderate,cuda,2.11.0+cu130
+"USER Ih maneh teh geus mah telat wae, pas giliran kerja kalah ngadon leha-leha. Nya mikir atuh sia teh! Hirup siga nu teu boga tujuan. Mun kieu wae mah tong nyalahkeun lamun aing nyeuleukeuteuk beuheung maneh!",codemixed_sundanese,1,0.8930110710626064,moderate,cuda,2.11.0+cu130
+"sumpah i pengen cepet-cepet bilang ke temen i: ""elu sih dasar pekok"" 😁😁😁👋",codemixed_javanese,1,0.8536688361883457,moderate,cuda,2.11.0+cu130
+anjir pp kehed mending lu nyari undangan sana makan gratis,codemixed_sundanese,0,0.7848892788863817,moderate,cuda,2.11.0+cu130
+"Tuh kan anjr! Aing kira sia rek ngadorong aing, tyt malah dinikmatin? Kampret, lu pasti sange kan, gblk.",codemixed_sundanese,1,0.894974765580323,moderate,cuda,2.11.0+cu130
+"bodo siah eta urang mah, aing ningal terus anjeunna ngajual barang palsu ka konsumen, tapi masih wae aya nu bela. mikir atuh lamun akal aya.",codemixed_sundanese,1,0.8415282557093655,moderate,cuda,2.11.0+cu130
+"DIHH, muka lu sngng bgt cill. Ih apaan sih, ulah sok songong ya. Pamer mulu, pake HP si Mark? Gelo pisan euy, tengil parahh 🙄😭 markohm ini rada laen https://t.co/p2oN5EUH0g",codemixed_sundanese,1,0.8739679432846611,moderate,cuda,2.11.0+cu130
+"Yeuuuh euy, trnyata kdok maneh we, sok ngomong nimu trowongan2 Hamas. Katempo atuh, agenda maneh gblk pisan.",codemixed_sundanese,1,0.8937289816653633,moderate,cuda,2.11.0+cu130
+"WOY CIL, MUKA LU SONGONG PARAH ATUH. Pamer wae make HP si Mark, norak pisan. Ih najis, tengil beud 😒 markohm mah rada lain.",codemixed_sundanese,1,0.888153855252268,moderate,cuda,2.11.0+cu130
+"Sok jagoan di lapang, tim futsal lu geus di-support barudak, eh penaltina malah kabur ka pager 🤡 lucu cik, latihan heula atuh sia, kehed.",codemixed_sundanese,1,0.7663394920961545,moderate,cuda,2.11.0+cu130
+"USER Kamu berhak banget, tinimbang saklawase urip bareng mertua lan bojo sing ora waras, mbak.",codemixed_javanese,0,0.8599145225127035,moderate,cuda,2.11.0+cu130
+temen² gue yg nelpon gue aja males gue angkat cuk jancuk elo lagi yg ANYAR KENAL GUE SEMINGGU TIBA² NELPON terus bilang tadi kok gak diangkat hayo sok asik banget lu kethek,codemixed_javanese,1,0.8930919325907885,moderate,cuda,2.11.0+cu130
+Anjing banget sih itu hidup kayak lonte terus aja apes wkwkwk bener-bener kasihan,codemixed_sundanese,1,0.8119185738455169,moderate,cuda,2.11.0+cu130
+"Nu nyebut Lee Jaewook goreng patut, sia koplok! Mata dipake atuh, seganteng kitu mah moal aya tandingna.",codemixed_sundanese,1,0.760524446369046,moderate,cuda,2.11.0+cu130
+"Wes tuek kok yo isih gelem-geleman macak koyo arek enom, ben iso viral mung iso goyang-goyang gak jelas.",codemixed_javanese,1,0.8449808356664128,moderate,cuda,2.11.0+cu130
+USER Kok bs blg gt asuu,codemixed_javanese,0,0.7519448287875606,moderate,cuda,2.11.0+cu130
+"Bukan kebetulan kalau setelah Reformasi bergulir, hampir semua media di Indonesia dikuasai oleh non-Muslim & moral masyarakat makin hancur.",indonesian_twitter,1,0.8098254017829476,moderate,cuda,2.11.0+cu130
+astaga lrt gue udah lupain eksistensi si tomo eh malah dikasih tau lagi sama si tolol,codemixed_sundanese,1,0.7537657593544015,moderate,cuda,2.11.0+cu130
+"USER Bilangkeun weh, dasar kotaan maneh kehed! Nempo bebek hungkul ge difotoan, padahal lain sato langka!",codemixed_sundanese,1,0.8120092497196655,moderate,cuda,2.11.0+cu130
+"USER gw katanya promosi mulu? Padahal nu bales mention teh siga jurig atuh, teu jelas",codemixed_sundanese,0,0.8611984027274671,moderate,cuda,2.11.0+cu130
+"Ti baheula ge geus bener cenah nu ngakibatkeun papisah kieu mah nya oknum-oknum nu kararieu atuh 😭😭😭 kesel Sn mah kudu kaimbasanna gara-gara tweet nu teu bener, jadi rame kamana-mana. Maneh Akgae, indit weh jauh-jauh siah KEHED!",codemixed_sundanese,0,0.8884147252523702,moderate,cuda,2.11.0+cu130
+Maen bertahan jeung tim nu leuwih handap ti siti téh naha bisa? Lamun ngalawan vietkong mah kakara kaharti anj... kabeh oge gebleg...,codemixed_sundanese,1,0.8394840964963551,moderate,cuda,2.11.0+cu130
+"Lo mmk, krn mskn gbs gt lls atuh. Anjng luh dshr, luh mah udh2 mskn iri dngki koplok makanya teu lls. Mskn mulu, mmk.",codemixed_sundanese,1,0.8340685591594077,moderate,cuda,2.11.0+cu130
+"USER USER USER kebanyakan hpl ayt stn anjeun nih, mkany otk gk pke mkr. lgika org mnang mah krna brjuang, ush, kurban, bkn kyk lu bca ayt trs alloh akbar bom. kirain udh mnang pke otk lieur atuh nya!",codemixed_sundanese,1,0.7752383049961434,moderate,cuda,2.11.0+cu130
+"Udah deh lo ga gitu dong syg, semangatin w kek, sial bgt hr ini, babi kntl.",codemixed_javanese,0,0.8284094683759117,moderate,cuda,2.11.0+cu130
+"USER orang2 kenapa sih, siga nu gelo bgt; pdhl udh dibilangin trs2an tapi kok ttap aja. Kekk gw jg ikutan ksel anjir sm orng yg gituu, apalagi Umiii—lu kudu santet tuh org nya?!??",codemixed_sundanese,0,0.7667731549285695,moderate,cuda,2.11.0+cu130
+USER 😂😂😂😂 Mosok iya IDF punya agama? Cuma uclim goblok ae.,codemixed_javanese,1,0.8056721142815424,moderate,cuda,2.11.0+cu130
+"Brngsk gua udh tobat.\nTiba"" vidkep muncul.\nTerkutuk kau boy yg nge rt in'",indonesian_twitter,1,0.7590434018763796,moderate,cuda,2.11.0+cu130
+Ti iraha atuh si kehed mobil butut teh leumpangna slow pisan di jalan utama. Naha teu ka sisi wae? Bikin macet geura!,codemixed_sundanese,0,0.8090093762938403,moderate,cuda,2.11.0+cu130
+USER USER USER USER USER namanya juga perusahaan milik asing\xf0\x9f\x98\x81\xf0\x9f\x98\x82\xf0\x9f\x98\x81',indonesian_twitter,0,0.7928734024549889,moderate,cuda,2.11.0+cu130
+RT USER USER USER USER Bener kamu ngga ada apa-apa nya,indonesian_twitter,1,0.8480283993489071,moderate,cuda,2.11.0+cu130
+USER ngluarin jurig lg gue gebuk deh,codemixed_sundanese,0,0.865571607939949,moderate,cuda,2.11.0+cu130
+ANJING MONYET babi pekok kenapa kok lewat si gw sampai mlm di kantor nanti balik sendirian rmh gw dipelosok ANJEEEERRRR,codemixed_javanese,0,0.8673281721199235,moderate,cuda,2.11.0+cu130
+Gw ud block si sampah hideung teh. Ayo atuh block deui.,codemixed_sundanese,1,0.8531982296278035,moderate,cuda,2.11.0+cu130
+USER kok sewot wae sih? /spank silitmu https://t.co/4o5cUP2guV,codemixed_javanese,1,0.8896218531987049,moderate,cuda,2.11.0+cu130
+"Kayanya akun gue lagi dipegang anak jurig, makanya jamet bgt",codemixed_sundanese,0,0.7798146902997796,moderate,cuda,2.11.0+cu130
+"USER Wah gendeng beneran ini, kritik bagus tapi responnya cuma gausah ditanggapi 🫠",codemixed_javanese_orig,0,0.7777585853221167,moderate,cuda,2.11.0+cu130
+"Kamprettt kena meneh, iye iye, dasar si melon pekok pol. Gue cuma hype HT doang, kok kowe sing repot, melon?",codemixed_javanese,1,0.8430516342125737,moderate,cuda,2.11.0+cu130
+"pdhl yen ora picek kuwi emg gada yg mirip wkwkwk, tolol bgt.",codemixed_javanese,1,0.8020161913359596,moderate,cuda,2.11.0+cu130
+USER Wkt harita enya kitu yakin pisan? Dimana atuh disebut jelas ngaranna kalo emg bener mah. Si Alo dasar belegug pisan! 😂,codemixed_sundanese,0,0.7738328016051673,moderate,cuda,2.11.0+cu130
+"Eh cewek, serius deh, lu ngerti gak sih kalo lu nyanyi di telinga gua? Bangsat",codemixed_javanese,1,0.8510131616053125,moderate,cuda,2.11.0+cu130
+"USER Makanya gue mah rada skeptis sama si jurig laknatullah, ujung-ujungna ge kieu wae.",codemixed_sundanese,0,0.895904843881812,moderate,cuda,2.11.0+cu130
+"USER naon atuh pangaruhna lamun budak ngora sajuta oge, dasar babyboomer koplok mah.",codemixed_sundanese,0,0.8113900043797624,moderate,cuda,2.11.0+cu130
+"USER Saran yg TIDAK SMART, bodoh dan tolol'",indonesian_twitter,1,0.8834654622246774,moderate,cuda,2.11.0+cu130
+"Wah iya mas, kok ngono ya? Tak deleng maneh ternyata kupingku sing budeg rupanya",codemixed_javanese,0,0.891401575026449,moderate,cuda,2.11.0+cu130
+"USER ampun aing mah, si adrian teh anjing kehed bebel pisan, mani kecup kecup wae.",codemixed_sundanese,0,0.8420975263148551,moderate,cuda,2.11.0+cu130
+"USER Bnyk sontoloyo di #2 sing dlu ngguyuhi Anis jln sehat nganggo hadiah, doorprize dll eh skrg jauh luwih edan bgt hadiahne 😊 Moga ora ono berita nek hadiahne ilang",codemixed_javanese,1,0.8335693126294011,moderate,cuda,2.11.0+cu130
+Pas lagi di mall seseorang tanya sama mannequin tentang harga barang. Org: eh boneka iki harga sepatu piro? Mannequin: Yo aku ora ngerti kok takon karo aku. Org: Dasar wong goblok bengok-bengok wae. Mannequin: Wong goblok kaya kowe menyang counter sono.,codemixed_javanese,1,0.7782835882472813,moderate,cuda,2.11.0+cu130
+"Kamu berhak banget, syg, pantas bahagia dan bebas dari keluarga asu itu.",codemixed_javanese,1,0.998955796369333,strong,cuda,2.11.0+cu130
+Anjir naturalisasi sampah pada dibenci yang bikin postingan sia-sia kieu. Astaga urang +62 mah otakna memang kurang ajar ti lahir,codemixed_sundanese,1,0.9995923647975807,strong,cuda,2.11.0+cu130
+"Wih pahlawan ya, USER, cuma berani karo kucing, welas asihmu ra ono, masusia pekok.",codemixed_javanese,1,0.9996224044609447,strong,cuda,2.11.0+cu130
+USER USER USER USER USER USER USER USER USER USER USER USER Goblok bgt lu cok..si wowo dah menang masih wae rebut2in anis koplok sia mah nying seharusnya teh better ngajak 96jt supporternya nyata bareng atuh gblk!,codemixed_sundanese,1,0.9985623518104672,strong,cuda,2.11.0+cu130
+"Sumpah serapahmu ki endi, USER? Kalo nggak terima, mbok ya dibantah. Padahal kubu sing mbok belani saiki sing ra uwis-uwis ndasmu sontoloyo palanga plongo ngono kui. Kui kan yo karyane opa karo Fadli Zon. Mung apik-apik saiki demi kemenangan tok. Nek Jokowi wes mudun jabatan, wis ora bakal dianggep maneh mergo ora ono partaine.",codemixed_javanese,1,0.9997286536196518,strong,cuda,2.11.0+cu130
+"PLS deh iya sadar diri, rada kesel penghuni PDB lantai 4 karo 5 iki yen mandek nang lantai 2 karo 3, like??? EDUCATE URSELF jancuk, dasar males.",codemixed_javanese,1,0.9941570042849776,strong,cuda,2.11.0+cu130
+USER USER Mampus #MTVLAFANEXOL #MTVLAKPOPEXO #MTVLADANCEKOKOBOP USER',indonesian_twitter,1,0.991993277912834,strong,cuda,2.11.0+cu130
+"USER asu tenan koe kabeh, untung ono sing gelem nyukupi manganmu, kok malah ra nesu sing takon kui, jan cok",codemixed_javanese,1,0.9997592729086896,strong,cuda,2.11.0+cu130
+"ANJING GUE SEBEL BANGET SAMA LO RAMA SIAAAAAAAL, MENYEBALKAN BGT KONTOOOOOOL, ASTAAAAGAAA KOK BISA ADA MAKHLUK BANGSAT KAYAK SI RAMA???? TOLONG KAK NEP BAKAR AJA TUH RUMAHNYAAAAA",codemixed_sundanese,1,0.9979934986176453,strong,cuda,2.11.0+cu130
+"USER Tolong ingetin semua antek-antek kraton, biar terus nyokong si anak ingusan itu buat bikin amburadul negara ini Yo,,,💪💪💪 ASU JANCOK,,!!!",codemixed_javanese,1,0.9996576017093408,strong,cuda,2.11.0+cu130
+USER Congor kamu kali yg bikin virus² kebencian tumbuh subur,codemixed_javanese_orig,1,0.9994209537023814,strong,cuda,2.11.0+cu130
+"Kowe kui tabiat oten, nek wis kepojok narasimu muter-muter, dasar botol. Fokus wae nang terjemahan gospelmu. Kok buku dongengmu nyomot/nyolong saka Qur'an, padahal kitab suci agama liya (Hindu & Budha) podo-podo pede nyebut Tuhane sesuai teks orine. Cepet, ja ja jawab, pekok.",codemixed_javanese,1,0.9997352817878928,strong,cuda,2.11.0+cu130
+"Kudu diomongkeun atuh mun geus aya, jadi aing teu kudu neangan deui. Dasar si goblog tehh, belekok!",codemixed_sundanese,1,0.9962065391524995,strong,cuda,2.11.0+cu130
+BANGSATTTT FURINA w ga balik NGENTOTTTT udh pity 80 puki anjing kntl,codemixed_sundanese,1,0.999584641274811,strong,cuda,2.11.0+cu130
+"Goblok pisan sia, masak indomie wae bisa gosong, kumaha cara mikirna?",codemixed_sundanese,1,0.9988819626417245,strong,cuda,2.11.0+cu130
+"biasku wes angel2 kerjo lahkok dianggep dadi bodyguard, pancen mulute kudu tak gedrug palu",codemixed_javanese,1,0.9963109704284078,strong,cuda,2.11.0+cu130
+"well I as a minority juga tau diri idup dimasyarakat mayoritas gimana dan cara bertindaknya gimana untuk gak nyakitin either your own group and the majority group. KOK YA ADA YA MANUSIA OTAK DENGKUL KAYA GINI NGETWEET BEGITU, aduh pusing aku!",codemixed_javanese,1,0.9985677055332416,strong,cuda,2.11.0+cu130
+"USER USER USER BIADAB BIADAB BIADAB MANEH NU NYARITA TEU RUGI SAHA? SIA NU BODO TEU NGERTI TEKS WKWKWKWKW AING TEH GEUS NGAJELASKEUN YEN ‘KABEH DUKUNGAN MAH NGAN NGAGANGGU, NGARUGIKEUN’ UTAMANA MAH KEUR JELMA MODEL SIAAA WKWKWKW INTINA MAH TELEN WEH TELEN TELENNNN 🤣🤣🤣🤣",codemixed_sundanese,1,0.9952050206358061,strong,cuda,2.11.0+cu130
+"Cih, kae lho, klompok kuwi pancen wong edan kabeh, mikire cuma ngerusak tatanan.",codemixed_javanese,1,0.9997244530485655,strong,cuda,2.11.0+cu130
+"USER USER Postinganmu 3 jam, lha IDF udah menguasai gaza, bahkan sampai ngebom rumahnya haniyeh, apa matamu rabun🤣🤣🤣",codemixed_javanese,1,0.9974532899123147,strong,cuda,2.11.0+cu130
+"USER Giring pun nyanyi-nyanyi, sadarkan aku Tuhan, wong kuwi tenan cah gemblung.",codemixed_javanese,0,0.9994868541365439,strong,cuda,2.11.0+cu130
+"Bapak tua itu bener2 pemalas bgt, apa susahnya sih matiin motor trs turun buat beli gorengan. Dasar males bener, gk mau turun dr motor malah motornya gk dimatiin pula, dasar gblk bgt tu wong tuo",codemixed_javanese,1,0.9983712731954891,strong,cuda,2.11.0+cu130
+"Otak nya gak nyambung ya dikasih tau logika segimana pun ya bubar jalan gamasuk, boloho bgt deh heran 😒",codemixed_sundanese_orig,1,0.9981475287853142,strong,cuda,2.11.0+cu130
+"USER USER USER Korupsi walau receh tetep korupsi, paham?! Kowe iki pekok tenan, ra iso mikir!",codemixed_javanese,1,0.999749607659086,strong,cuda,2.11.0+cu130
+😣😣 IsraHell mlebu neraka wae Bangsad Hancock Asu Babi Celeng karo kancane kabeh..... Eling ya. Kami ora bakal meneng wae sedulur muslim kami diperlakuke ngono,codemixed_javanese,1,0.9997913774581421,strong,cuda,2.11.0+cu130
+"Masih mending tak sebut dia berhala-né para kadrun; wingi si wowo and the gank koar-koar dia PKI sama planga-plongo, dadi yo pantes matané wowo picek, otaké yo dongok 😏",codemixed_javanese,1,0.9997834223964919,strong,cuda,2.11.0+cu130
+"Anying, tiap dgr covid, sakit ati bngt, usaha yg dirintis kudu gulung tikar krn ga ada buying power masyarakat, DAN MEREKA MALAH TAMBAH SUGIH! Asu, moga2 matinya kena corona lu pejabat asu, tark.",codemixed_javanese,1,0.9988503728634331,strong,cuda,2.11.0+cu130
+"BANGSAT ANYING. Katanya mau main game bareng tapi gw sama kawan-kawan gk pernah lu ajak ajg. Bikin grup WA bilangnya buat koordinasi, tapi isinya cuman circle lu doang, chat gw gk pernah direspon. Sok banget pengen keliatan asik. Padahal lu cuman pendatang baru. Heran, di grup ge sok bossy pisan.",codemixed_sundanese,1,0.9965413599921203,strong,cuda,2.11.0+cu130
+USER Menara petronas ki kox ngomong yaman..ndasar cah pkok tenan.,codemixed_javanese,1,0.9997263105546992,strong,cuda,2.11.0+cu130
+"Dasar dia itu tolo**l banget, tukang provokator biadab. Pengen banget dia cepet masuk bui, gemes lihat dia bisanya cuma lapor-lapor orang si congor lemes itu.",codemixed_javanese,1,0.9994700909870408,strong,cuda,2.11.0+cu130
+"Serius aku muak poll liat komen2 kaya gini ngatur2in pake kerudung lah, baju kurang sopan lah, macem2 deh pokoknya. Dasar manusia sok suci, yang pake aja ga masalah kok lu repot amat sih anjir",codemixed_javanese,1,0.9989265418371837,strong,cuda,2.11.0+cu130
+"Wes jelas durung mriksa asline, tapi Egi Sudungu sok nuduh ijazah Jokowi palsu. Ngapusi wae kowe, dasar pekok.",codemixed_javanese,1,0.9989829908083845,strong,cuda,2.11.0+cu130
+"Ih si eta teh, manehna nu edan, malah nuduh mantan. Amit-amit lah.",codemixed_sundanese,0,0.9966663163260923,strong,cuda,2.11.0+cu130
+"USER USER Hahahahaha ujung2 minta maaf, culun! Ngopilaaaaaaah'",indonesian_twitter,1,0.9876359234204313,strong,cuda,2.11.0+cu130
+"USER Geus weh, beungeut sia mah mending ditutupan ku karung, matak ngotoran pemandangan.",codemixed_sundanese,1,0.9948951045322623,strong,cuda,2.11.0+cu130
+"USER USER USER --- kaya kowe gawe 01 dadi angel menang. kowe dhewe sing gawe citra 01 dadi elek. tinimbang militan 02 utawa 03, malah gemes karo militan 01 sing gawe 01 ne dhewe angel kanggo menang. dasar pekok.",codemixed_javanese,1,0.999664669211283,strong,cuda,2.11.0+cu130
+"USER Bosok atimu, kowe kalah debat kok malah nyalahno moderator, maklum wae kebanyakan nongkrong karo geng bacot.",codemixed_javanese,1,0.9997324148978921,strong,cuda,2.11.0+cu130
+"USER Mertua jaman now tambah ngene, asu tenan kelakuane; banding2in mulu ga kelar2, sok sing paling top. Tolol bgt sampe ra paham kondisi wong iku beda2, ora podo, buset pgn tak kruwes cangkeme.",codemixed_javanese,1,0.9997748576266605,strong,cuda,2.11.0+cu130
+"Raimu kok gobloke pol! Jancok, mosok ngono wae ora mudeng? Mikir sitik lah, jangan cuma nyacat tok!",codemixed_javanese,1,0.9996371576816373,strong,cuda,2.11.0+cu130
+"HAHHHH SEVENTEEN ANJINGGGGG, FAK KEREN POL ASU!",codemixed_javanese,0,0.9847847769940081,strong,cuda,2.11.0+cu130
+"Halah, ngeles wae maneh teh goblog! Saha sia nu nyuruh-nyuruh aing anjing? Bodo amat aing mah jeung nabi siah! Nu jelas-jelas aja atuh, Pancasila, UUD 45, pasal 156 KUHP! Sok weh teruskeun halu maneh sorangan jeung nabi maneh monyet!",codemixed_sundanese,1,0.9969499205523021,strong,cuda,2.11.0+cu130
+anjir naon sih bangsat 😭😭😭😭 hate banget typing beginian kontol😭😭😭😭,codemixed_sundanese,1,0.9648878577055572,strong,cuda,2.11.0+cu130
+"USER Dasar pekok lu, USER, mmg wanita itu lbh ngutamain perasaan drpd logika, kocak bgt. Udh bnr lu gausah lompat pagar dah 😂",codemixed_javanese,1,0.9977531696086646,strong,cuda,2.11.0+cu130
+"Goblog, bukannya fokus ka masalah malah sibuk promosiin artis lain; emang kehed lu semua kebanyakan ngekpop jadi pada beku hatinya.",codemixed_sundanese,1,0.9990018379676475,strong,cuda,2.11.0+cu130
+Cuma Rezim GOBLOK aja kok sing takut dikritik https://t.co/ncsJsNgv8M,codemixed_javanese,1,0.9997823660610079,strong,cuda,2.11.0+cu130
+Ni ada lagi gerakan USER kntl pembela chibi anzing',indonesian_twitter,1,0.9882411895887767,strong,cuda,2.11.0+cu130
+"Wis ora isin apa coba mas, udah ngaco malah nyalahin orang lain, pantesane diketawain netizen kabeh 😂🤭 gila banget emang",codemixed_javanese,1,0.9993147560368896,strong,cuda,2.11.0+cu130
+"gue kalo jadi lo bian, gue musnahin tuh seisi rumah bangsat anjing, emang udah dikasih tuhan baik² gabisa pake sendiri lu dasar bocah kontol, sampe bawa² nyokap lu yang udah basi itu, gue cukur lu pake cangkul, jancuk lu tai sapi",codemixed_javanese,1,0.9996675817288863,strong,cuda,2.11.0+cu130
+"USER USER ojo songong ra iso push rank kok pamer, pekok 🤣 ojo nesu, mengko di-ss terus dipajang story, dasar pekok",codemixed_javanese,1,0.9997239735809812,strong,cuda,2.11.0+cu130
+"MAU NETES AIR MATA YA ALLAH, DASAR GOBLOK SAMPEYAN CA😭",codemixed_javanese,1,0.995360591124704,strong,cuda,2.11.0+cu130
